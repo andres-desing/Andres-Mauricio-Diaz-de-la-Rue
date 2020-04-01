@@ -1,7 +1,7 @@
 # Andres-Mauricio-Diaz-de-la-Rue
 MANUAL DE USUARIO APLICACION PRUEBA DE SELECCION A VACANTE FRONTEND
 
-PASO 1: EJUCUTEB EL ARCHIVO INDEX.HTML
+PASO 1: EJUCUTE EL ARCHIVO INDEX.HTML
 
 PASO 2: Funciones:  Comic Aleatorio </Li>
 PasO 3: Presione doble click en el boton Next cambia de Comic</li>
